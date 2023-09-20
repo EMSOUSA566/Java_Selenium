@@ -1,0 +1,4 @@
+digraph "java_selenium:java_selenium:jar:0.1" { 
+	"java_selenium:java_selenium:jar:0.1" -> "junit:junit:jar:4.12:test" ; 
+	"junit:junit:jar:4.12:test" -> "org.hamcrest:hamcrest-core:jar:1.3:test" ; 
+ } 
